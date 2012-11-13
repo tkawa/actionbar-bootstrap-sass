@@ -6,15 +6,11 @@ Navigation bar suitable for smartphone browser with Twitter Bootstrap
 
 Add this line to your application's Gemfile:
 
-    gem 'actionbar-bootstrap-sass'
+    gem 'actionbar-bootstrap-sass', git: 'git://github.com/tkawa/actionbar-bootstrap-sass.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install actionbar-bootstrap-sass
 
 ## Usage
 
