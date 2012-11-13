@@ -16,6 +16,8 @@ And then execute:
 
 In progress...
 
+See HTML of http://dominion-cards.herokuapp.com/
+
 ## Contributing
 
 1. Fork it
