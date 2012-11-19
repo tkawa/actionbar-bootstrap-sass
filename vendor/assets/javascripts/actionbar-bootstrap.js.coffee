@@ -64,7 +64,7 @@ $('body').on 'touchstart.dropdown.data-api', '.dropdown-menu', (e) ->
   null
 
 # add ellipsis to brandtitle if narrow
-$brandtitle = $('.actionbar .brand .brandtitle')
+$brandtitle = $('.actionbar .brand-ellipsis')
 $container_last = $brandtitle.closest('.container').children(':last')
 $(window).resize ->
   $brandtitle.css('width', '')
